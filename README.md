@@ -1,10 +1,8 @@
-<p align="center">
-<span style="color:green;">
+<div align="center" style="color: green;">
 <pre>
 ___ ___ _______ _______ 
 |   |   |__     |       |
 |   |   |     __|   -   |
  \_____/|_______|_______|
 </pre>
-</span>
-</p>
+</div>
