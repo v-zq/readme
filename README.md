@@ -1,4 +1,8 @@
-$$\color{green}{\text{___ ___ _______ _______}}$$
-$$\color{green}{\text{|   |   |__     |       |}}$$
-$$\color{green}{\text{|   |   |     __|   -   |}}$$
-$$\color{green}{\text{\textbackslash_____/|_______|_______|}}$$
+<div align="center" style="color: green;">
+<pre>
+___ ___ _______ _______ 
+|   |   |__     |       |
+|   |   |     __|   -   |
+ \_____/|_______|_______|
+</pre>
+</div>
